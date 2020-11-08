@@ -3,4 +3,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def main(request):
-    return HttpResponse('<h1>wena poio</h1>')
+    return HttpResponse('<h1>oal</h1>')
